@@ -1,0 +1,30 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe.config
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Form1.resources
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Properties.Resources.resources
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.GenerateResource.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 8 arreglos\ejemplos case8  arreglos\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.pdb
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe.config
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.pdb
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csprojAssemblyReference.cache
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Form1.resources
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Properties.Resources.resources
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.GenerateResource.cache
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.CoreCompileInputs.cache
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.exe
+C:\Users\W10\Downloads\ejemplos case8  arreglos - nombres ordenados\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.pdb
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe.config
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.exe
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\bin\Debug\ejemplos case8  arreglos.pdb
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csprojAssemblyReference.cache
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Form1.resources
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos_case8__arreglos.Properties.Resources.resources
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.GenerateResource.cache
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.exe
+C:\Users\FAMILIA BARRIENTOS\Desktop\ejemplos case8  arreglos - nombres ordenados - copia\ejemplos case8  arreglos\obj\Debug\ejemplos case8  arreglos.pdb
